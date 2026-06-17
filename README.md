@@ -229,7 +229,7 @@ outline_linkedin_post.txt
 
 ## 👨‍💻 Author
 
-### Caio Gonçalves
+### Gian Lima
 
 Full Stack Developer focused on:
 
